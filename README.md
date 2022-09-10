@@ -1,2 +1,4 @@
-# waterquiz.github.io
-This is the website for the water quiz
+# waterquiz.com
+---
+permalink: /index.html
+---
